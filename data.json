@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "id": "2",
+      "name": "Banana"
+    },
+    {
+      "id": "0",
+      "name": "Cakes",
+      "boughtItem": true
+    }
+  ]
+}
